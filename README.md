@@ -1,8 +1,7 @@
 # Solo Miner V3
 New Version Solo Miner with High Speed for mining Bitcoin With all System
 ---
-
-![Solo Miner V3](link)
+![Solo Miner V3](https://github.com/cryptoixer/SoloMinerV3/assets/149633709/9ff0e069-675a-4b3f-aa20-98015cde02df)
 
 ---
 
